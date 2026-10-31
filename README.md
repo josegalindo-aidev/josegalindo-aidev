@@ -19,10 +19,10 @@ Senior IT Service Delivery & Governance Leader with 20+ years steering complex I
 
 | Repo | Description | Stack |
 |---|---|---|
-| [PMO-OS](https://github.com/josegalindo-ai/PMO-OS) | Sistema operativo/framework para gobierno de proyectos | markdown / Python |
+<!--| [Name](https://github.com/josegalindo-aidev/Name) | Not defined | markdown / Python |-->
 
 
-*(Revisa que las URLs de arriba coincidan con los nombres finales tras la migración — algunos aún podrían estar en proceso de transferencia.)*
+<!--*(Revisa que las URLs de arriba coincidan con los nombres finales tras la migración — algunos aún podrían estar en proceso de transferencia.)*-->
 
 ## 🛠️ Tech stack
 
@@ -38,4 +38,4 @@ Senior IT Service Delivery & Governance Leader with 20+ years steering complex I
 - Email: josegalindo.aidev@gmail.com
 
 ---
-<sub>⭐ From [josegalindo-aidev](https://github.com/josegalindo-ai) — consolidated into a single profile for clarity.</sub>
+<sub>⭐ From [josegalindo-aidev](https://github.com/josegalindo-aidev) — consolidated into a single profile for clarity.</sub>
